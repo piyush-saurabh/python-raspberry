@@ -1,0 +1,101 @@
+=====With Base64 Encoded=====
+HMAC Calculation Time = 0.00217700004578 sec
+Message = message
+Key = SECRET_KEY
+Calculated HMAC : IvTfDQyY6OHNcQuADVpk9GBUamo=
+>>> ================================ RESTART ================================
+>>> 
+=====With Base64 Encoded=====
+HMAC Calculation Time = 0.00174999237061 sec
+Message = message
+Key = SECRET_KEY
+Calculated HMAC : IvTfDQyY6OHNcQuADVpk9GBUamo=
+>>> ================================ RESTART ================================
+>>> 
+=====With Base64 Encoded=====
+HMAC Calculation Time = 0.00216698646545 sec
+Message = message
+Key = SECRET_KEY
+Calculated HMAC : IvTfDQyY6OHNcQuADVpk9GBUamo=
+>>> ================================ RESTART ================================
+>>> 
+=====With Base64 Encoded=====
+HMAC Calculation Time = 0.00494194030762 sec
+Message = Large_message
+Key = SECRET_KEY
+Calculated HMAC : ZYQohvmeRz9RWxie7OGQxU6Gses=
+>>> ================================ RESTART ================================
+>>> 
+=====With Base64 Encoded=====
+HMAC Calculation Time = 0.00163316726685 sec
+Message = Large_message
+Key = SECRET_KEY
+Calculated HMAC : ZYQohvmeRz9RWxie7OGQxU6Gses=
+>>> ================================ RESTART ================================
+>>> 
+=====With Base64 Encoded=====
+HMAC Calculation Time = 0.00179886817932 sec
+Message = Large_message
+Key = SECRET_KEY
+Calculated HMAC : ZYQohvmeRz9RWxie7OGQxU6Gses=
+>>> ================================ RESTART ================================
+>>> 
+=====With Base64 Encoded=====
+HMAC Calculation Time = 0.00160598754883 sec
+Message = message
+Key = Large_SECRET_KEY
+Calculated HMAC : URZLEkEf5xTd64l1EVsEtDvztho=
+>>> ================================ RESTART ================================
+>>> 
+=====With Base64 Encoded=====
+HMAC Calculation Time = 0.00210189819336 sec
+Message = message
+Key = Large_SECRET_KEY
+Calculated HMAC : URZLEkEf5xTd64l1EVsEtDvztho=
+>>> ================================ RESTART ================================
+>>> 
+=====With Base64 Encoded=====
+HMAC Calculation Time = 0.00197696685791 sec
+Message = message
+Key = Large_SECRET_KEY
+Calculated HMAC : URZLEkEf5xTd64l1EVsEtDvztho=
+>>> ================================ RESTART ================================
+>>> 
+=====With Base64 Encoded=====
+HMAC Calculation Time = 0.00161600112915 sec
+Message = Large_message
+Key = Large_SECRET_KEY
+Calculated HMAC : gylMzq5RxWe0VZte/0TjvfLkCIo=
+>>> ================================ RESTART ================================
+>>> 
+=====With Base64 Encoded=====
+HMAC Calculation Time = 0.00210285186768 sec
+Message = Large_message
+Key = Large_SECRET_KEY
+Calculated HMAC : gylMzq5RxWe0VZte/0TjvfLkCIo=
+>>> ================================ RESTART ================================
+>>> 
+=====With Base64 Encoded=====
+HMAC Calculation Time = 0.00205111503601 sec
+Message = Large_message
+Key = Large_SECRET_KEY
+Calculated HMAC : gylMzq5RxWe0VZte/0TjvfLkCIo=
+>>> 
+=====Without Base64 Encoded=====
+HMAC Calculation Time = 2.59876251221e-05 sec
+Message = message
+Key = SECRET_KEY
+Calculated HMAC : "ôßèáÍqZdô`Tjj
+>>> ================================ RESTART ================================
+>>> 
+=====Without Base64 Encoded=====
+HMAC Calculation Time = 2.40802764893e-05 sec
+Message = message
+Key = SECRET_KEY
+Calculated HMAC : "ôßèáÍqZdô`Tjj
+>>> ================================ RESTART ================================
+>>> 
+=====Without Base64 Encoded=====
+HMAC Calculation Time = 2.69412994385e-05 sec
+Message = message
+Key = SECRET_KEY
